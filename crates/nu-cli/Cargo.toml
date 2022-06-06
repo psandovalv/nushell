@@ -32,7 +32,7 @@ base64 = "0.13.0"
 bigdecimal = {version = "0.2.0", features = ["serde"]}
 byte-unit = "4.0.9"
 bytes = "0.5.6"
-calamine = "0.16.1"
+calamine = "0.17.0"
 chrono = {version = "0.4.15", features = ["serde"]}
 chrono-tz = "0.5.3"
 clap = "2.33.3"
